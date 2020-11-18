@@ -27,6 +27,7 @@ pip install -r requirements.txt
 - dhash val: number(hex)
 - dhash diff: number
 - is similar to prev img: boolean
+- moved to
 
 ### args
 
